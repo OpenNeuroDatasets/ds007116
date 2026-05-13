@@ -1,0 +1,552 @@
+{
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        },
+        {
+            "CodeURL": "https://github.com/nilearn/nilearn/releases/tag/0.12.1",
+            "Description": "A Nilearn First Level Model-level GLM.",
+            "Name": "nilearn",
+            "Version": "0.12.1"
+        }
+    ]
+}
