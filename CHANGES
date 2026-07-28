@@ -1,3 +1,5 @@
+1.0.6 2026-07-28
+  - fixed sidecar key error warning
 1.0.5 2026-06-22
   - fix typos in phenotype JSON files
 1.0.4 2026-05-28
