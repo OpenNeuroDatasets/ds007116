@@ -1,0 +1,92 @@
+{
+  "atlas": {
+    "Description": "Atlas used for parcellation"
+  },
+  "curvind": {
+    "Description": "Intrinsic Curvature Index is the Van Essen curvature index for the region (i.e., the integral across all regions of positive intrinsic curvature divided by 4\u03c0)",
+    "References": [
+      "https://doi.org/10.1523/JNEUROSCI.17-18-07079.1997",
+      "https://doi.org/10.1016/j.neuroimage.2006.04.220"
+    ],
+    "Units": "arbitrary"
+  },
+  "foldind": {
+    "Description": "Folding Index is the Van Essen folding index for the region (i.e., the integral of the product of the maximum principal curvature and the difference between maximum and minimum curvature divided by 4\u03c0)",
+    "References": [
+      "https://doi.org/10.1523/JNEUROSCI.17-18-07079.1997",
+      "https://doi.org/10.1016/j.neuroimage.2006.04.220"
+    ],
+    "Units": "arbitrary"
+  },
+  "gauscurv": {
+    "Description": "Integrated Rectified Gaussian Curvature. Gaussian curvature is the average Gaussian curvature (the product of the principal curvatures at each vertex) for each region",
+    "References": [
+      "https://mathworld.wolfram.com/GaussianCurvature.html",
+      "https://doi.org/10.1016/j.neuroimage.2006.04.220"
+    ],
+    "Units": "mm^-2"
+  },
+  "grayvol": {
+    "Description": "Surface-based total gray matter volume.",
+    "Units": "mm^3"
+  },
+  "hemisphere": {
+    "Description": "Brain hemisphere (lh or rh)"
+  },
+  "index": {
+    "Description": "nth Segmentation in stats file."
+  },
+  "max_wgpct": {
+    "Description": "Using rawavg.mgz, W is white matter is sampled 1mm below the white surface and G is gray matter is sampled 30% the thickness into the cortex. wgpct is calculated as (100*(W-G)) / (0.5*(W+G)). This is the maximum wgpct value observed across all vertices in this ROI."
+  },
+  "mean_wgpct": {
+    "Description": "Using rawavg.mgz, W is white matter is sampled 1mm below the white surface and G is gray matter is sampled 30% the thickness into the cortex. wgpct is calculated as (100*(W-G)) / (0.5*(W+G)). This is the mean wgpct across all vertices in this ROI."
+  },
+  "meancurv": {
+    "Description": "Integrated Rectified Mean Curvature. Mean curvature is the average mean curvature (the average of the principal curvatures at each vertex) for each region.",
+    "References": [
+      "https://mathworld.wolfram.com/MeanCurvature.html",
+      "https://doi.org/10.1016/j.neuroimage.2006.04.220"
+    ],
+    "Units": "mm^-1"
+  },
+  "min_wgpct": {
+    "Description": "Using rawavg.mgz, W is white matter is sampled 1mm below the white surface and G is gray matter is sampled 30% the thickness into the cortex. wgpct is calculated as (100*(W-G)) / (0.5*(W+G)). This is the minimum wgpct value observed across all vertices in this ROI."
+  },
+  "numvert": {
+    "Description": "Number of surface vertices included in this ROI. This is a native surface, so the number of vertices in total will differ across scans."
+  },
+  "participant_id": {
+    "Description": "BIDS participant ID"
+  },
+  "range_wgpct": {
+    "Description": "The range of wgpct values across all vertices in this parcel. Should be max_wgpct - min_wgpct"
+  },
+  "segid": {
+    "Description": "index in the lookup table"
+  },
+  "session_id": {
+    "Description": "BIDS session ID"
+  },
+  "snr_wgpct": {
+    "Description": "Equal to mean_wgpct / stddev_wgpct"
+  },
+  "stddev_wgpct": {
+    "Description": "Using rawavg.mgz, W is white matter is sampled 1mm below the white surface and G is gray matter is sampled 30% the thickness into the cortex. wgpct is calculated as (100*(W-G)) / (0.5*(W+G)). This is the standard deviation of wgpct across all vertices in this ROI."
+  },
+  "structname": {
+    "Description": "Name of structure/ROI in the annot file\u2019s lookup table"
+  },
+  "surfarea": {
+    "Description": "Sum of the areas of the triangles included in the ROI",
+    "Units": "mm^2"
+  },
+  "thickavg": {
+    "Description": "Mean cortical thickness within the ROI. At each vertex, cortical thickness\u200b is the average of the shortest distance to the opposite surface (white to pial and pial to white)",
+    "Units": "mm"
+  },
+  "thickstd": {
+    "Description": "Standard deviation of cortical thickness within the ROI",
+    "Units": "mm"
+  }
+}
